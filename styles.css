@@ -25,19 +25,19 @@ body {
   .menu {
     width: 80%;
     background-color: burlywood;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
-  max-width: 500px;
-}
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
 
-img {
+  img {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
 
-  hr {
+hr {
     height: 2px;
     background-color: brown;
     border-color: brown;
